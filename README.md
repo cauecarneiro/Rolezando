@@ -1,17 +1,3 @@
 # Rolezando
-Projeto final desenvolvido durante o curso hackatruck
 
-
-App iOS para encontrar e compartilhar rolês em Brasília.
-
-Funcionalidades
-
-Mapa com eventos próximos
-
-Filtros por categoria, data e preço
-
-Marcar favoritos
-
-Compartilhar em redes sociais
-
-Notificações de lembrete
+Projeto final HackaTruck! App iOS SwiftUI para encontrar e compartilhar rolês em Brasília. Mapa de eventos, filtros por categoria/data/preço, favoritos e compartilhamento em redes sociais. Desenvolvido em SwiftUI com notificações úteis!!
